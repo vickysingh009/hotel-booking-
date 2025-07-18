@@ -120,30 +120,3 @@ We welcome contributions to this project! If you would like to contribute, pleas
 
 Please ensure your code follows the existing style and includes appropriate tests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Releases
-
-For the latest releases and updates, visit our [Releases](https://github.com/ronmattss2/React-HotelBooking-SYSTEM-Project/releases) section. You can download and execute the latest version of the project from there.
-
-## Contact
-
-If you have any questions or feedback, feel free to reach out:
-
-- **GitHub**: [ronmattss2](https://github.com/ronmattss2)
-- **Email**: your-email@example.com
-
----
-
-Thank you for checking out the **React Hotel Booking System Project**! We hope you find it useful and informative. Happy coding! 
-
----
-
-![React](https://img.shields.io/badge/React-React.js-brightgreen.svg)
-![Next.js](https://img.shields.io/badge/Next.js-Next.js-blue.svg)
-![Node.js](https://img.shields.io/badge/Node.js-Node.js-green.svg)
-![MongoDB](https://img.shields.io/badge/MongoDB-MongoDB-orange.svg)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Tailwind%20CSS-purple.svg)
-![Redux](https://img.shields.io/badge/Redux-Redux.js-yellow.svg)
